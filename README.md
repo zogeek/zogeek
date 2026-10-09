@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c'est Ziyad 👋</h1>
+<h1 align="center">Salut, moi c'est zogeek 👋</h1>
 <h3 align="center">Étudiant en informatique à l'École Enigma · Développeur full-stack</h3>
 
 <p align="center">
