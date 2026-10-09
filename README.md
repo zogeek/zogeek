@@ -1,45 +1,69 @@
-# Hi there, I'm Zogeek! 👋
+<h1 align="center">Salut, moi c'est Ziyad 👋</h1>
+<h3 align="center">Étudiant en informatique à l'École Enigma · Développeur full-stack</h3>
 
-## About Me
+<p align="center">
+  <a href="https://portfolio-zogeek.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ziyad-ossart"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
-I'm a passionate developer who loves to explore new technologies and solve problems through code. Here are some key points about me:
+---
 
-- 🌱 I’m currently learning advanced algorithms and machine learning.
-- 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
-- 🤔 I’m looking for help with mastering cloud computing and DevOps.
-- 💬 Ask me about web development, Python, and JavaScript.
-- 📫 How to reach me: [Your Email or LinkedIn Profile]
-- ⚡ Fun fact: I love playing chess and hiking in my free time.
+## 🧑‍💻 À propos
 
-## My Tech Stack
+- 🎓 Étudiant à l'**École Enigma**, après un Bac général spé Maths / Sciences de l'ingénieur
+- 🌐 Passionné de développement **web**, du front jusqu'à l'API et la base de données
+- 🔭 En ce moment : **Manhwa Tracker**, un monorepo Next.js + Hono + FastAPI
+- 🤖 J'ai aussi codé un **bot Discord** en TypeScript, avec Prisma et PostgreSQL
+- 🌱 Curieux et autodidacte, j'aime apprendre des technos en les utilisant sur de vrais projets
 
-### Languages
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+## 🛠️ Stack
 
-### Frameworks and Libraries
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+**Langages**
 
-### Tools and Platforms
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,c,php,java,html,css" alt="Langages"/>
+</p>
 
-## GitHub Stats
+**Front-end**
 
-![Zogeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=zogeek&show_icons=true&theme=radical)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Front-end"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zogeek&layout=compact&theme=radical)
+**Back-end & bases de données**
 
-## Let's Connect
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,prisma" alt="Back-end"/>
+</p>
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
+**Outils**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,pnpm,vercel,vscode,arduino" alt="Outils"/>
+</p>
+
+## 🚀 Projets
+
+| Projet | Description | Stack |
+| --- | --- | --- |
+| [**manhwa-tracker**](https://github.com/zogeek/manhwa-tracker) | Monorepo pour suivre ses lectures de manhwa : app web, API et scraper | Next.js · Tailwind · Hono · Drizzle · PostgreSQL · FastAPI · Turborepo · Docker |
+| [**zogeek-bot**](https://github.com/zogeek/zogeek-bot) | Bot Discord | TypeScript · discord.js · Prisma · PostgreSQL |
+| [**portfolio**](https://github.com/zogeek/portfolio) | Mon portfolio ([voir en ligne](https://portfolio-zogeek.vercel.app)) | Next.js · Tailwind · Framer Motion · Resend |
+| [**red-list**](https://github.com/zogeek/red-list) | Les espèces menacées par pays, via l'API IUCN Red List | Node.js · Express · EJS · Docker |
+| [**eval-react**](https://github.com/zogeek/eval-react) | Application React | React · Vite · React Router · Axios |
+| [**Hangman**](https://github.com/zogeek/Hangman) | Le jeu du pendu en ligne de commande | C |
+
+## 📊 Stats GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zogeek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zogeek&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langages les plus utilisés"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zogeek&theme=tokyonight&hide_border=true" alt="Streak GitHub"/>
+</p>
+
+---
+
+<p align="center">💬 N'hésite pas à me contacter pour discuter d'un projet !</p>
