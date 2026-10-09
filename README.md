@@ -2,7 +2,7 @@
 <h3 align="center">Étudiant en informatique à l'École Enigma · Développeur full-stack</h3>
 
 <p align="center">
-  <a href="https://portfolio-zogeek.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://zogeek.fr"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -47,7 +47,7 @@
 | --- | --- | --- |
 | [**manhwa-tracker**](https://github.com/zogeek/manhwa-tracker) | Monorepo pour suivre ses lectures de manhwa : app web, API et scraper | Next.js · Tailwind · Hono · Drizzle · PostgreSQL · FastAPI · Turborepo · Docker |
 | [**zogeek-bot**](https://github.com/zogeek/zogeek-bot) | Bot Discord | TypeScript · discord.js · Prisma · PostgreSQL |
-| [**portfolio**](https://github.com/zogeek/portfolio) | Mon portfolio ([voir en ligne](https://portfolio-zogeek.vercel.app)) | Next.js · Tailwind · Framer Motion · Resend |
+| [**portfolio**](https://github.com/zogeek/portfolio) | Mon portfolio ([voir en ligne](https://zogeek.fr)) | Next.js · Tailwind · Framer Motion · Resend |
 | [**red-list**](https://github.com/zogeek/red-list) | Les espèces menacées par pays, via l'API IUCN Red List | Node.js · Express · EJS · Docker |
 | [**eval-react**](https://github.com/zogeek/eval-react) | Application React | React · Vite · React Router · Axios |
 | [**Hangman**](https://github.com/zogeek/Hangman) | Le jeu du pendu en ligne de commande | C |
